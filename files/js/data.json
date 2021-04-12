@@ -1,0 +1,97 @@
+[
+  {
+    "id": 1,
+    "title": "Ms International",
+    "details": {
+      "description": "M S International is a customs clearance firm with a vision of success, prosperity, and longevity to impart quality Customs clearance services, International freight forwarding, and Multimodal Domestics Transportation.",
+      "subtitle": "Your exim clearance partner",
+      "description2": "Working closely with the Grillzzy team, I captured their vision of a brand that appeals digitally and physically. Designed with a focus on the experience of their food, the Grillzzy website captures their vision of true authentic South Asian food for everyone."
+    },
+    "date": "Feb 2021",
+    "summary": "Brand Website",
+    "roles": [
+      "Brand Designer",
+      "Web Designer",
+      "Front-End Developer"
+    ],
+    "links": [
+      {
+        "type": "web",
+        "text": "Visit Site",
+        "link": "http://msinternational.co.in/"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Kanooni Sahayata",
+    "details": {
+      "description": "Kelowna Wholesale Auto is a automobile retailer that sell second hand vehicles at affordable prices. Using modern web technologies, I created a website with a complete listing management solution creating their digital presence.",
+      "subtitle": "The Car Storefront",
+      "description2": "Working with KWA, I created a complete web application with a listing management solution for making a personalized solution increasing the impact of their online presence than ever before."
+    },
+    "date": "Jan 2020",
+    "summary": "Brand Website",
+    "roles": [
+      "Web Designer",
+      "Full-Stack Developer"
+    ],
+    "links": [
+      {
+        "type": "web",
+        "text": "Visit Site",
+        "link": "https://kanoonisahayata.com/"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Travel Bharat",
+    "details": {
+      "description": "Fay’s Salon is a hair salon that makes the ordinary stylish. Working with them, I created a booking and customer management system that automated the tedious in thier business.",
+      "subtitle": "Making it Stylish",
+      "description2": "I created a system that allowed the salon to manage new and old customer bookings. I created a complete solution to managing their customer base and allowing the business to create a true digital presence."
+    },
+    "date": "Oct 2019",
+    "summary": "Brand Website",
+    "roles": [
+      "Website Designer",
+      "Full Stack Developer"
+    ],
+    "links": [
+      {
+        "type": "web",
+        "text": "Visit Site",
+        "link": ""
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Alexis Varsat",
+    "details": {
+      "description": "Kelowna Islamic Center is a Muslim community in Kelowna BC that hopes to connect Muslims with one another. I worked with KIC to create a digital platform for all their community to connect and created a scalable and reliable platform.",
+      "subtitle": "Running in Harmony",
+      "description2": "To make a truly unanimously accessible platform, I created three separate applications all connected as one platform. All three of the applications, Android, iOS, and web kiosk, are connected to one singular scalable platform allowing the community to connect for years to come."
+    },
+    "date": "July 2019",
+    "summary": "Branding & Platform Solutions",
+    "roles": [
+      "UI/UX Designer",
+      "Android Developer",
+      "Full-Stack Developer"
+    ],
+    "links": [
+      {
+        "type": "web",
+        "text": "Visit Site",
+        "link": ""
+      },
+      {
+        "type": "",
+        "text": "",
+        "link": ""
+      }
+    ]
+  }
+]
