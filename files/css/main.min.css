@@ -256,7 +256,7 @@ body .back-fill {
   font-weight: normal;
   line-height: 170%;
   cursor: pointer;
-  color: red;
+  color: rgb(255, 255, 255);
   position: relative;
   padding-top: 2vh;
 }
@@ -275,7 +275,7 @@ body .back-fill {
   -webkit-transition: width 1s cubic-bezier(0.165, 0.84, 0.44, 1);
 }
 .m-nav-wrapper .list-container ul li a {
-  color: red;
+  color: rgb(255, 255, 255);
   text-decoration: none;
 }
 @media only screen and (max-width: 900px) {
